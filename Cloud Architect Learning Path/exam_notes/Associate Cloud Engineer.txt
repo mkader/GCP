@@ -1,0 +1,15 @@
+Associate Cloud Engineer
+
+Robert Lubinski11:07 AM
+https://cloud.google.com/certification/guides/cloud-engineer/?authuser=2
+https://drive.google.com/drive/folders/1WZevIsG1j_OhJKr2MAQA6lfESgn2Ru8a?usp=sharing
+Robert Lubinski11:08 AM
+https://partner.cloudskillsboost.google/
+https://partner.cloudskillsboost.google/course_templates/230
+https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+Robert Lubinski11:10 AM
+https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option
+Robert Lubinski11:12 AM
+https://mobile.twitter.com/pvergadia/status/1392555417553747968/photo/1
+https://cloud.google.com/load-balancing/docs/choosing-load-balancer
+https://cloud.google.com/blog/topics/developers-practitioners/your-google-cloud-database-options-explained

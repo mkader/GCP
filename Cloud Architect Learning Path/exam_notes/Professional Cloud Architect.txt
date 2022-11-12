@@ -1,1 +1,272 @@
+https://thecloudgirl.dev/sketchnote.html
+Jacob Ibudeh11:25 AM
+https://github.com/priyankavergadia/GCPSketchnote
+Robert Lubinski11:26 AM
+https://mobile.twitter.com/pvergadia/status/1392555417553747968/photo/1
 
+https://cloud.google.com/blog/topics/developers-practitioners/what-are-my-hybrid-and-multicloud-deployment-options-anthos
+
+https://cloud.google.com/certification/guides/professional-cloud-architect/
+
+https://kryterion.force.com/support/s/contactsupport?language=en_US
+
+https://partner.cloudskillsboost.google/course_templates/231?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=17812896
+https://partner.cloudskillsboost.google/course_templates/431
+
+
+
+
+
+Iqbal Ahmed11:23 AM
+Can you please share the link
+Robert Lubinski11:23 AM
+https://thecloudgirl.dev/sketchnote.html
+Jacob Ibudeh11:25 AM
+https://github.com/priyankavergadia/GCPSketchnote
+Robert Lubinski11:26 AM
+https://mobile.twitter.com/pvergadia/status/1392555417553747968/photo/1
+https://cloud.google.com/blog/topics/developers-practitioners/what-are-my-hybrid-and-multicloud-deployment-options-anthos
+Anup Cheepi11:35 AM
+Where can we find all these decision trees and materials? Can you post the link please...
+Daniel Andino11:35 AM
+Its in the guide, if you are doing the PCA, you will have the PDF file with those decision trees
+Anup Cheepi11:36 AM
+Okay. great. Thanks!
+Daniel Andino11:36 AM
+yw
+Sujay Karn11:37 AM
+A
+Shubham Yadav11:37 AM
+c
+Gabrielle Ferreira da Silva11:38 AM
+C
+Daniel Andino11:38 AM
+C
+Lata Naik11:38 AM
+c
+Daniel Andino11:39 AM
+oh i didnt know that :o
+Thanh Dang11:41 AM
+GKE
+Gabrielle Ferreira da Silva11:41 AM
+gke?
+Sujay Karn11:41 AM
+B
+Edgar Morales Caamaño11:41 AM
+B
+Shubham Yadav11:41 AM
+b
+Selva11:41 AM
+b
+phuong11:41 AM
+b
+Snezana Mitrovic11:41 AM
+B?
+Soule LR11:41 AM
+b
+Aman Pannu11:43 AM
+BigQuery
+Edgar Morales Caamaño11:43 AM
+A
+Thanh Dang11:43 AM
+A, E
+Daniel Andino11:43 AM
+bigquery and and cloud storage
+Selva11:43 AM
+a
+Gabrielle Ferreira da Silva11:43 AM
+e and a
+Daniel Andino11:43 AM
+A/E
+Shubham Yadav11:43 AM
+a e
+Pratishtha Agarwal11:43 AM
+A E
+phuong11:43 AM
+a&e
+Sujay Karn11:43 AM
+A/E
+Snezana Mitrovic11:43 AM
+a e
+Thanh Dang11:44 AM
+Analytics, Realtime
+Gabrielle Ferreira da Silva11:44 AM
+^^
+A
+Aman Pannu11:44 AM
+A
+Gopal Allam11:44 AM
+A
+Pratishtha Agarwal11:44 AM
+a
+Sujay Karn11:44 AM
+A
+Daniel Andino11:44 AM
+A
+Lilian Mutiso11:44 AM
+A
+Edgar Morales Caamaño11:44 AM
+A
+Sarin Randula Sirimalwatta11:44 AM
+A
+Shubham Yadav11:44 AM
+a
+Daniel Andino11:45 AM
+SQL spanner
+Edgar Morales Caamaño11:45 AM
+Spanner
+Jorge Gutierrez Chavez11:45 AM
+Spanner
+Jairo Neder Monassa “Gyro” Moreira11:45 AM
+cloud sql
+Shubham Yadav11:45 AM
+spanner
+Thanh Dang11:45 AM
++ Cloud SQL
+Gopal Allam11:45 AM
+spanner, cloud sql
+Aman Pannu11:45 AM
+C
+Sujay Karn11:45 AM
+B/C
+Jairo Neder Monassa “Gyro” Moreira11:45 AM
+cloud sql and spanner
+Daniel Andino11:45 AM
+Spanner and SQL
+Jacob Ibudeh11:45 AM
+Spanner
+Shubham Yadav11:45 AM
+b c
+Soule LR11:45 AM
+b,c
+Jacob Ibudeh11:45 AM
+Any time I see global I know is Spanner
+Daniel Andino11:46 AM
+same lol
+Jacob Ibudeh11:48 AM
+case studies
+Gabrielle Ferreira da Silva11:48 AM
+Case studies are difficult
+Jacob Ibudeh11:48 AM
+How many case studies are there now? It's to be 2 some years ago.
+Gabrielle Ferreira da Silva11:49 AM
+4
+Robert Lubinski11:52 AM
+https://cloud.google.com/certification/guides/professional-cloud-architect/
+Gabrielle Ferreira da Silva11:52 AM
+I always confuse one case with the other
+Great! Thanks you :)
+Thanh Dang11:55 AM
+Is there additional minutes for non-English speaking takers?
+Gabrielle Ferreira da Silva11:55 AM
+I would love it kkk
+Christelle Tigang11:56 AM
+For how long do you think we can prepare for this exam?
+Robert Lubinski11:57 AM
+https://kryterion.force.com/support/s/contactsupport?language=en_US
+Daniel Andino11:57 AM
+1 month should be enough
+Lilian Mutiso11:57 AM
+Is this the only exam readiness class session?
+Daniel Andino11:57 AM
+but you need to dedicate time
+John Harrison11:58 AM
+I need to drop - thank you!
+Thanh Dang11:59 AM
+How does PCA compare to AWS certs? Equal to SA Associate or Pro?
+Thejaswini Mallapura Venkatesh11:59 AM
+Thank you so much
+Josphat Ngugi11:59 AM
+Could you reshare the materials?
+Robert Lubinski11:59 AM
+https://partner.cloudskillsboost.google/course_templates/231?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=17812896
+https://partner.cloudskillsboost.google/course_templates/431
+Roberto Gomez12:00 PM
+if you give me 5 minutes I will share the list
+Thanh Dang12:00 PM
+Thanks
+Daniel Andino12:00 PM
+These are the links I coppied from todays webinar: 
+https://partner.cloudskillsboost.google/
+https://partner.cloudskillsboost.google/course_templates/231?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=17812896
+https://partner.cloudskillsboost.google/course_templates/431
+
+
+https://cloud.google.com/adoption-framework
+
+
+Security
+https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+
+https://thecloudgirl.dev/sketchnote.ht
+Daniel Andino12:02 PM
+Yea I received an email saying my certification on AUgust for the ACE now is extended 1 year more so its for 3 years
+Snezana Mitrovic12:03 PM
+Thank You
+Daniel Andino12:03 PM
+Thanks Robert
+Shubham Yadav12:03 PM
+no...thanks Robert
+Gabrielle Ferreira da Silva12:03 PM
+Can you wish us good luck? hahaha
+Thank you!!!
+Jacob Ibudeh12:03 PM
+Thank you Robert
+Joseph Moniz12:03 PM
+Thank you Robert
+Sam Fourgeaud12:03 PM
+Thank you
+Lata Naik12:03 PM
+Thank you
+Iqbal Ahmed12:03 PM
+Thank you
+Sujay Karn12:03 PM
+Thank you, Robert
+Daniel Andino12:03 PM
+lol
+rahaman sk12:03 PM
+Thanks Robert !!
+Shubham Yadav12:03 PM
+lol
+Jairo Neder Monassa “Gyro” Moreira12:03 PM
+thanks you robert
+Zoltán Gombár12:03 PM
+Dzenkuem
+Anup Cheepi12:03 PM
+Thanks, Robert!
+Edgar Morales Caamaño12:03 PM
+Thank you!
+Sudheer N Shivakumar12:03 PM
+Thank you
+??? (Eunsoo Choi)12:03 PM
+thank you
+Gabrielle Ferreira da Silva12:03 PM
+Thank youu
+Jorge Gutierrez Chavez12:03 PM
+thank you
+Yohan Peiris12:03 PM
+Thank you!
+Carlos Curbelo12:03 PM
+Gracias!
+Roberto Gomez12:03 PM
+https://docs.google.com/document/d/12_a-MM_5djTlZ3KaJ_CBZ7QKLpXXbs1gapssRbgMScA/edit?usp=sharing
+Nicolas12:03 PM
+Thank you
+Roberto Gomez12:03 PM
+links
+Sanil Raj12:03 PM
+Many thanks Robert!
+Selva12:03 PM
+thank you for your presentation...
+Thanh Dang12:03 PM
+Thank you
+Sarin Randula Sirimalwatta12:03 PM
+Thanks
+Gabrielle Ferreira da Silva12:03 PM
+Obrigada!
+Mark Stine12:04 PM
+Thanks
+Mangesh Patil12:04 PM
+Thank you
+Marion VEYRAC12:04 PM
+Thank you
